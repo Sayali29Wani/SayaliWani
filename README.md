@@ -17,14 +17,14 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view">Resume📃</a>
 - <table>
   <tr>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sschoudhary30&layout=compact&theme=dark" alt="sureshchoudhary" /></td>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sschoudhary&theme=dark&width=10000" alt="sureshchoudhary" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sschoudhary30&layout=compact&theme=dark" alt="" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sschoudhary&theme=dark&width=10000" alt="" /></td>
   </tr>
 </table>
 <h3 align="left"> Coding Profile</h3>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/suresh_aumix?ext=heatmap)
+![Leetcode Stats](https://leetcode.com/u/Sayali_Wani/)
 
 
 <h3 align="left">Connect with me:</h3>
