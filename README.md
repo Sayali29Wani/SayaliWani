@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sayaliparagwani.44@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view">Resume📃</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14C3FdeUPy6_BXbpAWCloYambOhWrYYoX/view?usp=sharing">Resume📃</a>
 - <table>
   <tr>
     <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sschoudhary30&layout=compact&theme=dark" alt="" /></td>
