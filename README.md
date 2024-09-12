@@ -6,7 +6,6 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
-<p align="left"> <img src="&label=Profile%20views&color=0e75b6&style=flat" alt="sschoudhary30" /> </p>
 
 
 
@@ -32,10 +31,10 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sayali-wani-780511228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sschoudhary30/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sayali-wani-780511228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayali-wani-780511228/" height="30" width="40" /></a>
 
 
-<a href="https://leetcode.com/u/Sayali_Wani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suresh_aumix/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Sayali_Wani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Sayali_Wani/" height="30" width="40" /></a>
 </p>
 </p>
 
